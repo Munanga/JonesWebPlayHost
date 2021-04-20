@@ -1,7 +1,7 @@
 # JonesWebPlayHost
 Jones 2D game web deployment. 
 
-Here is the link to play the game online.
+Link will be provided soon. For now kindly check out the desktop version
 
 
 Run the game on a 1920x1080 screen and play the game at full screen.
